@@ -1,0 +1,72 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "UnCapture-002",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "_duration": 0.7166666666666667,
+    "_keys": [
+      [
+        0,
+        0.1,
+        0.2,
+        0.3,
+        0.4,
+        0.5,
+        0.6,
+        0.7
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "93f8d014-b75f-42e3-bab9-2f0409eafdab@f9941"
+            },
+            {
+              "__uuid__": "4296089e-9c2b-48d1-b0aa-3e2349a95112@f9941"
+            },
+            {
+              "__uuid__": "f6f07b27-51be-4dc3-b292-95824787e297@f9941"
+            },
+            {
+              "__uuid__": "6dbeff14-14a9-46d9-88cb-478e20a66698@f9941"
+            },
+            {
+              "__uuid__": "a276b4a5-b24c-410b-9677-65688611db83@f9941"
+            },
+            {
+              "__uuid__": "99b0b2e3-2bef-4469-9f59-cce0cf1cff90@f9941"
+            },
+            {
+              "__uuid__": "9e543863-7d83-4349-92d3-5e24525f71d2@f9941"
+            },
+            {
+              "__uuid__": "85c8b7ba-511f-4ae9-ada8-676d8e9255a0@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 3297887751
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

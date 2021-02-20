@@ -1,0 +1,142 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "godox",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 10,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [
+      {
+        "frame": 1.2,
+        "func": "godoxEnd1",
+        "params": []
+      },
+      {
+        "frame": 1.4,
+        "func": "godoxEnd2",
+        "params": []
+      }
+    ],
+    "_duration": 1.5,
+    "_keys": [
+      [
+        0,
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        1,
+        1.2,
+        1.4
+      ],
+      [
+        0,
+        1,
+        1.2,
+        1.4
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          "position"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 890.405,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 40.5,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 50,
+              "z": 0
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 40,
+              "z": 0
+            }
+          ],
+          "easingMethods": {}
+        }
+      },
+      {
+        "modifiers": [
+          "scale"
+        ],
+        "data": {
+          "keys": 1,
+          "values": [
+            {
+              "__type__": "cc.Vec3",
+              "x": 1,
+              "y": 1,
+              "z": 1
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 1,
+              "y": 0.8,
+              "z": 0.8
+            },
+            {
+              "__type__": "cc.Vec3",
+              "x": 0,
+              "y": 0,
+              "z": 0
+            }
+          ],
+          "easingMethods": {}
+        }
+      },
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 2,
+          "values": [
+            {
+              "__uuid__": "e8ed473c-abab-4236-a3eb-d6aca1a53f38@f9941"
+            },
+            {
+              "__uuid__": "e8ed473c-abab-4236-a3eb-d6aca1a53f38@f9941"
+            },
+            {
+              "__uuid__": "e8ed473c-abab-4236-a3eb-d6aca1a53f38@f9941"
+            },
+            {
+              "__uuid__": "e1d7c5df-893b-4a72-bf75-850f9f968ac3@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 3377701004
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]

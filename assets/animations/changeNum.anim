@@ -1,0 +1,56 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "changeNum",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 1,
+    "speed": 1,
+    "wrapMode": 1,
+    "events": [],
+    "_duration": 4,
+    "_keys": [
+      [
+        0,
+        1,
+        2,
+        3
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "spriteFrame"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            {
+              "__uuid__": "4036cf36-5ca2-47bf-8d0f-e16a20f04aa1@f9941"
+            },
+            {
+              "__uuid__": "21013fa3-3531-429a-b289-38be6cc7a382@f9941"
+            },
+            {
+              "__uuid__": "b036a514-1336-42bf-b8a2-5db760e81640@f9941"
+            },
+            {
+              "__uuid__": "12382d34-fe96-4747-832a-f0369d7855ff@f9941"
+            }
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 1159677401
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Sprite"
+  }
+]
